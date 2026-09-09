@@ -76,7 +76,7 @@ Full-stack web platform developed for a catering business.
 
 ---
 
-### 🏥 MIDYKARE
+### 🏥 MIDYKAL
 
 A SaaS platform designed for healthcare management.
 
@@ -225,13 +225,6 @@ My objective is to combine **software engineering + data + AI** to build useful 
 Explore my projects, skills and experience:
 
 👉 **[Visit my portfolio](https://marieme-kamara-portfolio.vercel.app/)**
----
-
-## 📊 GitHub
-
-![Marième's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariemeKmr\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariemeKmr\&layout=compact\&hide_border=true)
 
 ---
 
