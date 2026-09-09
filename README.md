@@ -194,7 +194,7 @@ Development of **UnityDesk**, a web platform designed to facilitate coordination
 
 **Diplôme de Technicien Supérieur en Informatique**
 École Supérieure Polytechnique
-2024 – 2025
+2022 – 2024
 
 **HCIA-Datacom V1.0**
 Huawei Talent Online · 2023
